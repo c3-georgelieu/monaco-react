@@ -7,7 +7,7 @@
     "@material-ui/icons": "^4.4.3",
     "@material-ui/lab": "^4.0.0-alpha.28",
     "@material-ui/styles": "^4.5.0",
-    "@monaco-editor/react": "^3.1.0",
+    "@monaco-editor/react": "https://github.com/c3-georgelieu/monaco-react.git",
     "classnames": "^2.2.6",
     "mobile-detect": "^1.4.4",
     "overmind": "^22.0.5",
