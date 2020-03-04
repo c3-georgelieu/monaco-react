@@ -30,7 +30,6 @@
   },
   "homepage": "https://github.com/SurenAt93/monaco-react#readme",
   "peerDependencies": {
-    "monaco-editor": "https://github.com/c3-georgelieu/monaco-editor.git",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
@@ -84,5 +83,7 @@
       "/demo/"
     ]
   },
-  "dependencies": {}
+  "dependencies": {
+    "monaco-editor": "https://github.com/c3-georgelieu/monaco-editor.git"
+  }
 }
